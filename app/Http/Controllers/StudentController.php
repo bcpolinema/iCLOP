@@ -56,10 +56,10 @@ class StudentController extends Controller
   // public function nodejscourse() {
   //   return view('student/nodejscourse/main');
   // }
-    public function nodejscourseBasicHTML() {
-    return view('student/nodejscourse/basicHTML/index');
-  }
-  public function nodejscourseDynamicContent() {
-    return view('student/nodejscourse/DynamicContent/index');
-  }
+  //   public function nodejscourseBasicHTML() {
+  //   return view('student/nodejscourse/basicHTML/index');
+  // }
+  // public function nodejscourseDynamicContent() {
+  //   return view('student/nodejscourse/DynamicContent/index');
+  // }
 }
